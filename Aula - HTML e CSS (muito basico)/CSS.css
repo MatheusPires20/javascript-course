@@ -1,0 +1,22 @@
+body{
+    background-color: #91f0f0; /* Aqui eu posso mudar a cor do fundo da pagina */
+}
+p.principal{
+    color:red; /* Aqui eu mudo a cor da fonte de P com classe="pincipal"*/
+    text-align:center; /* Aqui eu mudo o alinhamento do texto*/
+}
+#titulo{
+    color: blue; /* Aqui eu mudo a cor do título"*/
+    text-align:center; /* Aqui eu mudo o alinhamento do texto*/
+}
+button:hover{
+    background-color:black; /* Para definir o hold de uma cor deve ser usado o background-color*/
+    width:120px; /* Aqui eu mudo o tamanho do botão */
+    height:120px; /* Aqui eu mudo o tamanho do botão */
+}
+button{ /* Aqui ele muda a cor da fonte do botão*/
+    color: silver; /* Aqui eu mudo a cor da fonte do botão */
+    width: 120px; /* Aqui eu mudo o tamanho do botão */
+    height: 120px; /* Aqui eu mudo o tamanho do botão */
+
+}
