@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<htmml>
+    <head>
+        <link rel="stylesheet" href="css.css">
+        <title> My web page </title>
+    </head>
+    <body>
+        <h1 id=titulo > You are create you first html! </h1>
+        <p class="principal"> Hello World </p>
+        <button>Press here!</button>
+    </body>
+</htmml>
