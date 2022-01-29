@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<!-------------------------------------------------Head---------------------------------------------------------------->
+    <head> 
+        <meta charset="utf-8" />
+        <meta name="viewport" content="with= width=device-width, initial-scale=1.0">
+    </head>
+<!-------------------------------------------------Body---------------------------------------------------------------->        
+    <body>
+        <form =action="index.html" method="get">
+            <label for="service"> Escolha uma opção da lista: </label>
+                <input class="Services" list="Servicos" name="service" id="service">
+                <datalist id="Servicos">
+                    <option value="Corte Simples">
+                    <option value="Corte Social">
+                    <option value="Corte na Zero">
+                    <option value="Desenho">
+                    <option value="Degradê">
+                    <option value="Barba">
+                    <option value="Bigode">
+                </datalist>
+                
+        </form>
+    </body>
+<!-------------------------------------------------footer----------------------------------------------------------------->
+    <footer>
+
+    </footer>
+<!----------------------------------------------------------------------------------------------------------------------->
+</html>
